@@ -3,7 +3,7 @@
 ## File location
 On this Galaxy history **INSERT LIK**, you find the following data:
 * `Pveris.ont.fastq.gz`: Nanopore sequencing of _P. veris_
-* `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C sequencing of _P. veris_ (forward and reverse 
+* `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C sequencing of _P. veris_
 
 ## Project overview
 ### Input data QC and genome profiling
