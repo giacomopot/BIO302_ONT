@@ -6,6 +6,7 @@ On this Galaxy history **INSERT LIK**, you find the following data:
 * `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C sequencing of _P. veris_
 
 ## Project overview
+Each link will take you to a general tutorial for each step. Use the same parameters as indicated in the tutorials, except when
 ### Input data QC and genome profiling
 Check the distribution of length and quality in your long-read data set. Perform a genome profiling through k-mer analysis to estimate genome size and heterozygosity (i.e. proportion of heterozygous sites across the genome).
 * QC on long reads ([Nanoplot](https://training.galaxyproject.org/topics/assembly/tutorials/chloroplast-assembly/tutorial.html#check-read-quality))
