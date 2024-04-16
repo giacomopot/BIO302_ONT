@@ -5,12 +5,6 @@ All the data needed for your project are available in [this Galaxy history](http
 * _Androsace vitaliana_ (Avi):
   * `Avitaliana.ont.fastq.gz`: Nanopore reads
   * `Avitaliana.hic.R1.fastq.gz`, `Avitaliana.hic.R2.fastq.gz`: Hi-C reads
-* _Hottonia inflata_ (Hin):
-  * `Hinflata.hifi.fastq.gz`: PacBio HiFi reads
-  * `Hinflata.hic.R1.fastq.gz`, `Hinflata.hic.R2.fastq.gz`: Hi-C reads
-* _Hottonia palustris_ (Hpa):
-  * `Hpalustris.hifi.fastq.gz`: PacBio HiFi reads
-  * `Hpalustris.hic.R1.fastq.gz`, `Hpalustris.hic.R2.fastq.gz`: Hi-C reads
 * _Primula edelbergii_ (Ped):
   * `Pedelbergii.ont.fastq.gz`: Nanopore reads
   * `Pedelbergii.hic.R1.fastq.gz`, `Pedelbergii.hic.R2.fastq.gz`: Hi-C reads
