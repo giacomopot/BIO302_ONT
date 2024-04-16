@@ -1,7 +1,7 @@
 # BIO302 - Nanopore
 
 ## File location
-All the data needed for your project are available in [this Galaxy history](https://usegalaxy.org/u/jackpot92/h/bio302-2024-files). Create a new history and import the 3 files of your species:
+All the data needed for your project are available in [this Galaxy history](https://usegalaxy.org/u/jackpot92/h/bio302-2024-files). Click `Import history` on the tope left of the screen. Depending on which species you will be working on, keep only the files relevant to your project:
 * _Androsace vitaliana_ (Avi):
   * `Avitaliana.ont.fastq.gz`: Nanopore reads
   * `Avitaliana.hic.R1.fastq.gz`, `Avitaliana.hic.R2.fastq.gz`: Hi-C reads
