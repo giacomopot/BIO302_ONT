@@ -1,9 +1,22 @@
 # BIO302 - _Primula veris_
 
 ## File location
-On this Galaxy history **INSERT LIK**, you find the following data:
-* `Pveris.ont.fastq.gz`: Nanopore sequencing of _P. veris_
-* `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C sequencing of _P. veris_
+All the data needed for your project are available in this Galaxy history **INSERT LIK**. Create a new history and import the 3 files of your species:
+* _Androsace vitaliana_ (Avi):
+  * `Avitaliana.ont.fastq.gz`: Nanopore reads
+  * `Avitaliana.hic.R1.fastq.gz`, `Avitaliana.hic.R2.fastq.gz`: Hi-C reads
+* _Hottonia inflata_ (Hin):
+  * `Hinflata.hifi.fastq.gz`: PacBio HiFi reads
+  * `Hinflata.hic.R1.fastq.gz`, `Hinflata.hic.R2.fastq.gz`: Hi-C reads
+* _Hottonia palustris_ (Hpa):
+  * `Hpalustris.hifi.fastq.gz`: PacBio HiFi reads
+  * `Hpalustris.hic.R1.fastq.gz`, `Hpalustris.hic.R2.fastq.gz`: Hi-C reads
+* _Primula edelbergii_ (Ped):
+  * `Pedelbergii.ont.fastq.gz`: Nanopore reads
+  * `Pedelbergii.hic.R1.fastq.gz`, `Pedelbergii.hic.R2.fastq.gz`: Hi-C reads
+* _Primula veris_ (Pve):
+  * `Pveris.ont.fastq.gz`: Nanopore reads
+  * `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C reads 
 
 ## Project overview
 Each link will take you to a general tutorial for each step. Use the same parameters as indicated in the tutorials, except when
