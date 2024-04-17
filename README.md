@@ -1,6 +1,10 @@
 # BIO302 - Nanopore
 
 ## File location
+As a first step, create a new history and import the data:
+* In the Galaxy main page, click on the "+" symbol next to "History" (top right of the screen).
+* Rename the History as `BIO302 <name of your species>`.
+
 All the data needed for your project are available in [this Galaxy history](https://usegalaxy.eu/u/giacomopot/h/bio302-2024-files). Click `Import history` on the tope left of the screen. Depending on which species you will be working on, keep only the files relevant to your project:
 * _Primula edelbergii_ (Ped):
   * `Pedelbergii.ont.fastq.gz`: Nanopore reads
