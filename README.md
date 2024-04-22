@@ -13,8 +13,9 @@ All the data needed for your project are available in [this Galaxy history](http
   * `Pveris.ont.fastq.gz`: Nanopore reads
   * `Pveris.hic.R1.fastq.gz`, `Pveris.hic.R2.fastq.gz`: Hi-C reads 
 
-## Project overview
-Each link will take you to a general tutorial for each step. Use the same parameters as indicated in the tutorials, except when
+## Software used
+This is a list of the main software used in these labs. The links will take you to general tutorials for each software.
+Here are described the main steps 
 ### Input data QC and genome profiling
 Check the distribution of length and quality in your long-read data set. Perform a genome profiling through k-mer analysis to estimate genome size and heterozygosity (i.e. proportion of heterozygous sites across the genome).
 * QC on long reads ([Nanoplot](https://training.galaxyproject.org/topics/assembly/tutorials/chloroplast-assembly/tutorial.html#check-read-quality))
